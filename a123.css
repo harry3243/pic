@@ -1,0 +1,50 @@
+body{
+    background:linear-gradient(50deg,#47abe5,#081534);
+    color: aliceblue;
+}
+h1{
+    
+    text-align: center;
+    margin-left: auto;
+    padding:0;
+    background:#133a7c;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline;
+    position:sticky;
+    top:5px   ;
+   }
+
+.one,.two,.three,.four{
+    display: inline;
+    margin-left: 50px;
+    padding: 16px;
+    background: #081534;
+    font-size:smaller;
+    
+}
+
+
+.two figcaption{
+    background:#47abe5;
+color: antiquewhite;
+text-align: center;
+margin-top: 5px;
+border-radius: 10px;
+
+}
+
+.two img{
+    border-radius: 10px;
+
+}
+li{
+    display: inline;
+}
+
+footer{
+    background: #081534;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+}
